@@ -1,0 +1,4 @@
+id|name|genre|animal|personality
+1|caramel|male|very small but really cute rabbit|salty
+2|bounty|male|little pony with long hair|cocky
+3|iago|male|super doggo|funny
