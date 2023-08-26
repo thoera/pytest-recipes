@@ -1,0 +1,16 @@
+animal:
+  dog:
+    number: 25
+    strength:
+      - endurance
+      - power
+      - speed
+  cat:
+    number: 8
+    strength:
+      - agility
+      - speed
+  lion:
+  elephant:
+  stag:
+  pig:
